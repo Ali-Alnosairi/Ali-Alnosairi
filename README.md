@@ -4,14 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Harnessing the Power of Code to Solve Real-World Problems
 ---------------------------------------------------------
 
-I'm a recent computer science graduate with a strong focus on web development, specializing in the Frappe framework. With a passion for building robust and scalable web applications, I am constantly exploring new technologies and honing my skills.
-In addition to web development, I've also dived into mobile app development. Using technologies like Flutter. I'm eager to continue learning, growing, and seizing new opportunities in software development. Feel free to explore my repositories, review my projects, and reach out to me for collaborations..
+I’m a software developer and open-source enthusiast. I thrive on creating robust, scalable web applications and am always eager to explore new technologies and enhance my skills. Passionate about continuous learning and collaboration, I enjoy contributing to open-source projects and connecting with fellow developers.
 
 * 🌍  I'm based in Yemen ,Sana'a
 * ✉️  You can contact me at [alialnosiari@gmail.com](mailto:alialnosiari@gmail.com)
-* 🚀  I'm currently working on [Academic Management System](http://https://github.com/Sana-a-Uni/Academia)
-* 🧠  I'm learning Frappe Framework, Flutter
-* 🤝  I'm open to collaborating on Erpnext
+* 🚀  I'm currently working on [Academic Management System](http://https://github.com/Sana-a-Uni/Academia) project
 * ⚡  "I'm a nocturnal coder, finding inspiration and tranquility in night hours as my code dances in the glow of the monitor
 
 ### Skills
